@@ -3,7 +3,7 @@
 
 
 App made by: Irene Too <br>
-Put to public on 4 June 2021.
+Publicly shared on 4 June 2021.
 
 
 
